@@ -1,3 +1,8 @@
+# IMPORTANT NOTICE:
+Some of you may have trouble installing GMM. I have become an unfortanate victim of this. Don't worry. THIS WILL NOT STOP ME
+   ## But how?
+   Rather simple: GMM v2.1.1 doesn't work on some newer versions of browsers. This means that if GMM doesn't work for you, you can downgrade your browser version.
+
 # JustANameForMe's custom bonk.io gamemodes
    ## Intro
    Hello! This is the repository containing all the gamemodes I (JustANameForMe) have made!
