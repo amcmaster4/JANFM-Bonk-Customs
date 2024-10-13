@@ -1,5 +1,5 @@
 # HELLO THERE
-Some of you might want to play our modes! its free to download. Just so you guys know some of these modes aren't done yet they are just for testing and soon we miht get rid of the ones that aren't done.
+Some of you might want to play our modes! its free to download. Just so you guys know some of these modes aren't done yet they are just for testing and soon we might get rid of the ones that aren't done.
 
 
 
