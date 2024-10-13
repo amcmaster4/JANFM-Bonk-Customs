@@ -1,3 +1,8 @@
+# HELLO THERE
+Some of you might want to play our modes! its free to download. Just so you guys know some of these modes aren't done yet they are just for testing and soon we miht get rid of the ones that aren't done.
+
+
+
 # IMPORTANT NOTICE:
 Some of you may have trouble installing GMM. I have become an unfortanate victim of this. Don't worry. THIS WILL NOT STOP ME
    ## But how?
